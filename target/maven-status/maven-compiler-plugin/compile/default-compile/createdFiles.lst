@@ -1,0 +1,5 @@
+com\mycompany\compoex5\Subscriber.class
+com\mycompany\compoex5\FootballScoreReporter.class
+com\mycompany\compoex5\ScoreEvent.class
+com\mycompany\compoex5\ScoreListener.class
+com\mycompany\compoex5\ScoreSource.class
